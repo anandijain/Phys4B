@@ -1,0 +1,12 @@
+name = "Phys"
+uuid = "475bf1d5-ca14-469f-8a13-a7f37ab044f2"
+version = "0.1.0"
+authors = ["Anand Jain <anandj@uchicago.edu>"]
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
+[compat]
+LinearAlgebra = "1.12.0"
+Symbolics = "7.5.0"
