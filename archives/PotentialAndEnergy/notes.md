@@ -66,3 +66,17 @@ W = Delta U (sys = q1 q2). since q1 fixed, there is a net ext force on it. but i
   = 1/2 m v_f2 + (k Q1 Q2 / rf - k Q1 Q2 / ri)
 
 vf = sqrt(2 k Q1 Q2 / m (1/ri - 1/rf))
+
+
+## dl = 0 => W_netext = 0
+
+when we have two charges q1 q2 and hold one fixed, there is a net external force causing the charge to not move. but there is no displacement. and for the q2 there is no external force. thus the net external work done on the system is zero
+
+# what is electrostatic potential and what does potential do? 
+electrostatic potential is a difference in electric potential energy per unit of electric charge 
+
+potential causes charge to move 
+
+# what is voltage?
+
+voltage is a colloquial term to describe a potential difference between two points 
