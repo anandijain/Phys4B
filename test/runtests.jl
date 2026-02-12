@@ -27,6 +27,8 @@ end
 
 disp = displacement
 
+rhat(from, to) = normalize(displacement(from, to))
+
 """
 
 F(of, on) is the electric force of `of` acting on `on`.
@@ -53,6 +55,39 @@ function force_matrix(qs)
         end
     end
     A
+end
+
+# work stuff
+"""
+qs is vec of Charge(mag, pos)
+
+inefficient but simple, because every qi*V_ri counts each pair twice 
+so 1/2 works! the coeff in front of every term like k qi qj / d will be 2 
+
+quick walkthrough of 
+
+q1 = Charge(q_1, [0,0])
+q2 = Charge(q_2, [0, d])
+q3 = Charge(q_3, [d, 0])
+qs = [q1,q2,q3]
+
+"""
+function charge_config_work(qs)
+    n = length(qs)
+    Wsum = zero(qs[1].q)
+    for i in 1:n
+        V_ri = zero(qs[1].q) # the potential at charge qi
+        for j in 1:n
+            if i == j
+                continue
+            end
+            # norm is comm so rij = rji 
+            rij = norm(displacement(qs[i], qs[j])) # problably could precompute the matrix fast 
+            V_ri += k * qs[j].q / rij
+        end
+        Wsum += qs[i].q * V_ri
+    end
+    1 // 2 * Wsum
 end
 
 q1 = Charge(q, [0, 0])
@@ -103,13 +138,13 @@ vector along their perpendicular bisector. Then find the position relative to th
 the field is a maximum.
 
 
-=# 
+=#
 
-q1 = Charge(q, [-D/2, 0])
-q2 = Charge(q, [D/2, 0])
+q1 = Charge(q, [-D / 2, 0])
+q2 = Charge(q, [D / 2, 0])
 q3 = Charge(Q, [0, y])
 
-norm(disp(q1, q3)) 
+norm(disp(q1, q3))
 
 #= 
 6. Find the electric field vector anywhere in the plane of a dipole. Let the charge value on one
@@ -117,10 +152,10 @@ charge be q. Let them be separated by d. Let the origin be in between them. And 
 each on the y axis.
 
 
-=# 
+=#
 
-q1 = Charge(q, [0, d/2])
-q2 = Charge(-q, [0, -d/2])
+q1 = Charge(q, [0, d / 2])
+q2 = Charge(-q, [0, -d / 2])
 q3 = Charge(Q, [x, y])
 
 
@@ -135,6 +170,14 @@ q1 = Charge(q_1, -L)
 q2 = Charge(q_2, 0)
 q3 = Charge(q_3, L)
 F(q1, q2)
-F(q3,q2)
-qs =[q1,q2,q3]
+F(q3, q2)
+qs = [q1, q2, q3]
 force_matrix(qs)
+
+# work of configuration
+
+q1 = Charge(q_1, [0, 0])
+q2 = Charge(q_2, [0, d])
+q3 = Charge(q_3, [d, 0])
+qs = [q1, q2, q3]
+W = charge_config_work(qs)
