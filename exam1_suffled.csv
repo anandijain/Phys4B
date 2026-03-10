@@ -21,78 +21,78 @@ row_index,url
 60,http://nebula2.deanza.edu/~newton/4B/4BE1029.jpg, skipped capacitor
 95,http://nebula2.deanza.edu/~newton/4B/4BE2P1Spring14.jpg, skipped capacitor
 35,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall08.jpg, surprisingly not bad
-9,http://nebula2.deanza.edu/~newton/4B/4BE1032.jpg
-3,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring10.jpg
-12,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall10.jpg
-57,http://nebula2.deanza.edu/~newton/4B/4BE1004.jpg
-5,http://nebula2.deanza.edu/~newton/4B/4BE1001.jpg
-80,http://nebula2.deanza.edu/~newton/4B/4BE1026.jpg
+9,http://nebula2.deanza.edu/~newton/4B/4BE1032.jpg, not bad if you recognize what to do 
+3,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring10.jpg, just need to recognize that the problem isnt find E its find V
+12,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall10.jpg, interesting gauss law problem: solve for qenc = 0
+57,http://nebula2.deanza.edu/~newton/4B/4BE1004.jpg, skipped energy density 
+5,http://nebula2.deanza.edu/~newton/4B/4BE1001.jpg,
+80,http://nebula2.deanza.edu/~newton/4B/4BE1026.jpg, skipped really hard to set up integral
 1,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring11.jpg
-85,http://nebula2.deanza.edu/~newton/4B/4BE1011.jpg
-50,http://nebula2.deanza.edu/~newton/4B/4BE1010.jpg
-56,http://nebula2.deanza.edu/~newton/4B/4BE1024.jpg
-73,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring12.jpg
-16,http://nebula2.deanza.edu/~newton/4B/4BE1002.jpg
-26,http://nebula2.deanza.edu/~newton/4B/4BE1P3Spring12.jpg
-33,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall09.jpg
-52,http://nebula2.deanza.edu/~newton/4B/4BE1P4F17Aft
-102,http://nebula2.deanza.edu/~newton/4B/4BE1031.jpg
-2,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall10.jpg
-11,http://nebula2.deanza.edu/~newton/4B/CapacitorDielectric
-58,http://nebula2.deanza.edu/~newton/4B/4BE1025.jpg
-4,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring09.jpg
-67,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall2015.jpg
-14,http://nebula2.deanza.edu/~newton/4B/4BE1P3Spring13.jpg
-47,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall2015.jpg
-101,http://nebula2.deanza.edu/~newton/4B/4BE1P3Fall10.jpg
-97,http://nebula2.deanza.edu/~newton/4B/4BE1018.jpg
-65,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall14.jpg
-17,http://nebula2.deanza.edu/~newton/4B/4BE1007.jpg
-45,http://nebula2.deanza.edu/~newton/4B/4BE1P2Winter17.jpg
-90,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall2016.jpg
-23,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring14.jpg
-76,http://nebula2.deanza.edu/~newton/4B/4BE1P3Fall09.jpg
-42,http://nebula2.deanza.edu/~newton/4B/4BE1012.jpg
-66,http://nebula2.deanza.edu/~newton/4B/4BE1P3Fall14.jpg
-49,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall08.jpg
-94,http://nebula2.deanza.edu/~newton/4B/4BE1013.jpg
-99,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall2016.jpg
-51,http://nebula2.deanza.edu/~newton/4B/4BE1P2Winter16.jpg
-34,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring09.jpg
-30,http://nebula2.deanza.edu/~newton/4B/4BE1P1Winter12.jpg
-77,http://nebula2.deanza.edu/~newton/4B/4BE1P2Spring09.jpg
-46,http://nebula2.deanza.edu/~newton/4B/4BE1P2Spring11.jpg
-37,http://nebula2.deanza.edu/~newton/4B/4BE1023.jpg
-20,http://nebula2.deanza.edu/~newton/4B/4BE1P4Winter17.jpg
-82,http://nebula2.deanza.edu/~newton/4B/4BE1017.jpg
-72,http://nebula2.deanza.edu/~newton/4B/4BE1P3fall12.jpg
-86,http://nebula2.deanza.edu/~newton/4B/4BE1021.jpg
-62,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring10.jpg
-53,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall09.jpg
-7,http://nebula2.deanza.edu/~newton/4B/4BE1022.jpg
-59,http://nebula2.deanza.edu/~newton/4B/4BE1028.jpg
-100,http://nebula2.deanza.edu/~newton/4B/4BE1P3Winter16.jpg
-18,http://nebula2.deanza.edu/~newton/4B/4BE2P1F17Morn
-54,http://nebula2.deanza.edu/~newton/4B/4BE1P2Winter12.jpg
-21,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring11.jpg
-68,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring14.jpg
-48,http://nebula2.deanza.edu/~newton/4B/4BE1P4fall12.jpg
-13,http://nebula2.deanza.edu/~newton/4B/4BE1P3Spring14.jpg
-24,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall14.jpg
-64,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall14.jpg
-63,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall2015.jpg
-98,http://nebula2.deanza.edu/~newton/4B/4BE1030.jpg
-43,http://nebula2.deanza.edu/~newton/4B/4BE1014.jpg
-36,http://nebula2.deanza.edu/~newton/4B/4BE1027.jpg
-38,http://nebula2.deanza.edu/~newton/4B/4BE1019.jpg
-91,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall2016.jpg
-29,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring12.jpg
-44,http://nebula2.deanza.edu/~newton/4B/4BE1P1F17Aft
-32,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall09.jpg
-28,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall10.jpg
-71,http://nebula2.deanza.edu/~newton/4B/4BE1P1fall12.jpg
+85,http://nebula2.deanza.edu/~newton/4B/4BE1011.jpg, really cool standard WE velocity
+50,http://nebula2.deanza.edu/~newton/4B/4BE1010.jpg, point charge torque pretty easy
+56,http://nebula2.deanza.edu/~newton/4B/4BE1024.jpg, skipped NEED TO DO like prob 5 on pset 4 find potential energy 
+73,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring12.jpg, energy density or something E^2??
+16,http://nebula2.deanza.edu/~newton/4B/4BE1002.jpg, pretty easy nonuniform volume charge density
+26,http://nebula2.deanza.edu/~newton/4B/4BE1P3Spring12.jpg, REDO very difficult good to redo try to do it with kinematics and Delta V
+33,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall09.jpg, REDO really really hard
+52,http://nebula2.deanza.edu/~newton/4B/4BE1P4F17Aft, GREAT problem for torque 
+102,http://nebula2.deanza.edu/~newton/4B/4BE1031.jpg, not so bad if you remember that x2 -> 0 in these problems
+2,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall10.jpg, REALLY good problem to do for potential and integral dV, should redo
+11,http://nebula2.deanza.edu/~newton/4B/CapacitorDielectric, understood the derivation of cylindrical capacitance was good but not the dielectric stuff
+58,http://nebula2.deanza.edu/~newton/4B/4BE1025.jpg, skipped energy density
+4,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring09.jpg, best potential problem yet, int dV (POS), eval for Delta V, then work energy for Vf
+67,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall2015.jpg, el clasico for work energy 
+14,http://nebula2.deanza.edu/~newton/4B/4BE1P3Spring13.jpg, fun one gauss law and pos some vectors then just algebra
+47,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall2015.jpg, very fun: the best torque problem yet 
+101,http://nebula2.deanza.edu/~newton/4B/4BE1P3Fall10.jpg, cool analogy with linear spring oscillations with F=ma and rotational oscillation with Tau = I alpha 
+97,http://nebula2.deanza.edu/~newton/4B/4BE1018.jpg, pretty easy F = integral dF problem 
+65,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall14.jpg, super hard 5/5 great potential energy problem 
+17,http://nebula2.deanza.edu/~newton/4B/4BE1007.jpg, easy one to lose a ton of points on exam. reminder about the properties of conductors. E = 0 insde ALL CONDUCTORS 
+45,http://nebula2.deanza.edu/~newton/4B/4BE1P2Winter17.jpg, REDO need to practice these ones that require two integral dE in series
+90,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall2016.jpg, great work energy problem that can be done w multiple systems 
+23,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring14.jpg, 1/5 difficulty at this point 
+76,http://nebula2.deanza.edu/~newton/4B/4BE1P3Fall09.jpg, el clasico WE actually so easy
+42,http://nebula2.deanza.edu/~newton/4B/4BE1012.jpg, 1/5
+66,http://nebula2.deanza.edu/~newton/4B/4BE1P3Fall14.jpg, redo? unique need to apply WE then F = ma to balance centripetal and coulomb forces
+49,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall08.jpg, the simplest dTau torque problem
+94,http://nebula2.deanza.edu/~newton/4B/4BE1013.jpg, trick question about force on scale
+99,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall2016.jpg, tricky kinematics question 
+51,http://nebula2.deanza.edu/~newton/4B/4BE1P2Winter16.jpg, really nasty torque pretty cool, torque due to point charge
+34,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring09.jpg, looked really good vector one 5/5 need to know how to prove E constant in the standard offset sphere hollow
+30,http://nebula2.deanza.edu/~newton/4B/4BE1P1Winter12.jpg, looked should do 4/5
+77,http://nebula2.deanza.edu/~newton/4B/4BE1P2Spring09.jpg, very weird work energy looked. amazing  5/5
+46,http://nebula2.deanza.edu/~newton/4B/4BE1P2Spring11.jpg, looked 5/5 non uniform charge density + torque
+37,http://nebula2.deanza.edu/~newton/4B/4BE1023.jpg, looked pretty good 3/5
+20,http://nebula2.deanza.edu/~newton/4B/4BE1P4Winter17.jpg, looked 4/5 full gauss law with 3 step checklist
+82,http://nebula2.deanza.edu/~newton/4B/4BE1017.jpg, pretty cool 2 GL + WE to find a vf 4/5
+72,http://nebula2.deanza.edu/~newton/4B/4BE1P3fall12.jpg, 4/5 gauss law + WE charge ejected from dielectric sphere needs 2 integrals, trying to trick you 
+86,http://nebula2.deanza.edu/~newton/4B/4BE1021.jpg, kappa dielectric, skipping
+62,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring10.jpg, 5/5 need to at least look thru a capacitor problem
+53,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall09.jpg, skip energy density
+7,http://nebula2.deanza.edu/~newton/4B/4BE1022.jpg, part b is cool 
+59,http://nebula2.deanza.edu/~newton/4B/4BE1028.jpg, skipped part b because of energy density first part 2/5
+100,http://nebula2.deanza.edu/~newton/4B/4BE1P3Winter16.jpg, potential and kinematics, the trick is to see that you dont need to find Vf with Delta V. can go directly from the E field to finding the time because wiht E (and constant) we know Force
+18,http://nebula2.deanza.edu/~newton/4B/4BE2P1F17Morn, skip magnetic field 
+54,http://nebula2.deanza.edu/~newton/4B/4BE1P2Winter12.jpg, energy density skipping
+21,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring11.jpg, 5/5 pos problem el classico
+68,http://nebula2.deanza.edu/~newton/4B/4BE1P1Spring14.jpg, find Vi gauss law + WE 2/5
+48,http://nebula2.deanza.edu/~newton/4B/4BE1P4fall12.jpg, 5/5 gauss law + torque amazing
+13,http://nebula2.deanza.edu/~newton/4B/4BE1P3Spring14.jpg, 5/5 POS 
+24,http://nebula2.deanza.edu/~newton/4B/4BE1P2Fall14.jpg, 2/5 not hard integral E dq
+64,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall14.jpg, 3/5 gauss law + work energy 
+63,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall2015.jpg, capacitance
+98,http://nebula2.deanza.edu/~newton/4B/4BE1030.jpg, 3/5 gauss law, integrate E dq, plug into F = ma 
+43,http://nebula2.deanza.edu/~newton/4B/4BE1014.jpg, 6/5 need to practice hollows 
+36,http://nebula2.deanza.edu/~newton/4B/4BE1027.jpg, 6/5 vectors and POS balancing rho of dielectric sphere
+38,http://nebula2.deanza.edu/~newton/4B/4BE1019.jpg, 1/5 int dE
+91,http://nebula2.deanza.edu/~newton/4B/4BE1P4Fall2016.jpg, 4/5
+29,http://nebula2.deanza.edu/~newton/4B/4BE1P4Spring12.jpg, 2/5
+44,http://nebula2.deanza.edu/~newton/4B/4BE1P1F17Aft, 4/5 
+32,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall09.jpg, 3/5
+28,http://nebula2.deanza.edu/~newton/4B/4BE1P1Fall10.jpg, 3/5 
+71,http://nebula2.deanza.edu/~newton/4B/4BE1P1fall12.jpg, cap
 83,http://nebula2.deanza.edu/~newton/4B/4BE1005.jpg
-92,http://nebula2.deanza.edu/~newton/4B/4BE1P1Winter16.jpg
+92,http://nebula2.deanza.edu/~newton/4B/4BE1P1Winter16.jpg, e density
 40,http://nebula2.deanza.edu/~newton/4B/4BE1003.jpg
 75,http://nebula2.deanza.edu/~newton/4B/4BE1P2Spring10.jpg
 39,http://nebula2.deanza.edu/~newton/4B/4BE1009.jpg
